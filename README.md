@@ -1,6 +1,6 @@
-# 🧠 Ollama Auto-Typing GUI
+# 🧠 Ollama Anywhere
 
-A small Python GUI app using Tkinter that sends a prompt to a local [Ollama](https://ollama.com) AI model and auto-types the streamed response into your current window using `pynput`.
+A small Python terminal & GUI app using Tkinter that sends a prompt to a local [Ollama](https://ollama.com) AI model and auto-types the streamed response into your current window using `pynput`.
 
 ---
 
