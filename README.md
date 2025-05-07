@@ -4,6 +4,8 @@ A small Python terminal & GUI app using Tkinter that sends a prompt to a local [
 
 ---
 
+<img src"screen.png"/>
+
 ## ✨ Features
 
 - Simple Tkinter GUI for entering prompts
